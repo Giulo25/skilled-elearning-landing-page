@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Giulo25/skilled-elearning-landing-page/upload/main)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site]([https://your-live-site-url.com](https://giulo25.github.io/skilled-elearning-landing-page/))
 
 ## Author
 
