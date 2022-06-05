@@ -33,7 +33,6 @@ body {
   font-size: 1.8rem;
   font-family: "Plus Jakarta Sans", sans-serif;
   height: 100vh;
-  padding-top: 1.6rem;
   margin-inline: auto;
 }
 h1 {
@@ -105,6 +104,7 @@ header {
   padding-inline: var(--padding-inline);
   max-width: var(--max-w);
   margin-inline: auto;
+  margin-top: 1.6rem;
 }
 header img {
   height: 2.5rem;
@@ -234,6 +234,9 @@ footer img {
   .btn {
     font-size: 1.8rem;
   }
+  header {
+    padding-top: 4rem;
+  }
   header img {
     height: auto;
   }
@@ -263,13 +266,18 @@ footer img {
   .card-section {
     max-width: var(--max-w);
     margin-inline: auto;
-    row-gap: 5.6rem;
+    row-gap: 8rem;
     justify-content: space-between;
     padding-bottom: 14rem;
   }
   .card {
+    max-height: 32rem;
     padding-inline: 3.2rem;
     padding-bottom: 4rem;
     max-width: 35rem;
+  }
+  .first-card {
+    align-items: top;
+    padding-top: 6.4rem;
   }
 }
