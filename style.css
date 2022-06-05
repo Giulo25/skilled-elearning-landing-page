@@ -271,13 +271,8 @@ footer img {
     padding-bottom: 14rem;
   }
   .card {
-    max-height: 32rem;
     padding-inline: 3.2rem;
     padding-bottom: 4rem;
     max-width: 35rem;
-  }
-  .first-card {
-    align-items: top;
-    padding-top: 6.4rem;
   }
 }
