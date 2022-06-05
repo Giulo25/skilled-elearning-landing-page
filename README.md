@@ -4,19 +4,10 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
 
 ### The challenge
 
